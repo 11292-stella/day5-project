@@ -19,6 +19,7 @@ public class Immagine extends ElementoMulti implements Riproducibile{
     @Override
     public void play() {
 
+        show();
     }
 
     public void show(){
